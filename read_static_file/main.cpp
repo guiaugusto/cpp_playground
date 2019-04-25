@@ -37,7 +37,8 @@ void clean_breaklines(string file_name){
     file.close();
 
     // Remove arquivo para criar um novo com o mesmo nome
-    remove(file_name.c_str());
+    // Descomente a linha abaixo para fazer a substituição do novo arquivo
+    // remove(file_name.c_str());
 
     // Abre arquivo para escrita
     ofstream new_file;
