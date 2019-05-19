@@ -1,0 +1,18 @@
+# Header do arquivo
+# contendo as instruções dele
+# player_1
+0 1 canoa nada
+3 7 canoa nada
+8 3 canoa nada
+3 1 submarino direita
+3 9 submarino cima
+7 12 porta-avioes baixo
+5 2 porta-avioes direita
+# player_2
+1 1 canoa nada
+1 7 canoa nada
+3 11 canoa nada
+3 3 submarino esquerda
+11 4 submarino direita
+10 1 porta-avioes cima
+6 12 porta-avioes esquerda

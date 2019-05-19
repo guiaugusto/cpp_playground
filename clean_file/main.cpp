@@ -16,6 +16,7 @@ void clean_breaklines(string file_name){
     ifstream file;
 
     // Abre arquivo
+    file_name = "doc/" + file_name;
     file.open(file_name.c_str());
 
     // Variável para informar em qual linha existe um '\n'
